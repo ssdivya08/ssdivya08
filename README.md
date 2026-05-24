@@ -1,8 +1,11 @@
 # Hi there 👋 I'm Samatham Sai Divya
 
 🎓 B.Tech CSE Student
+
 💻 Aspiring AI Engineer
+
 🤖 Interested in AI ML NLP and Full Stack Development
+
 🚀 Building AI Powered Applications and Real World Projects
 
 ---
