@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there 👋 I'm Samatham Sai Divya
 
-<!--
-**ssdivya08/ssdivya08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Aspiring AI Engineer
+🤖 Interested in AI ML NLP and Full Stack Development
+🚀 Building AI Powered Applications and Real World Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* Python
+* Java
+* SQL
+* JavaScript
+* HTML CSS
+* TensorFlow
+* Scikit learn
+* NLP
+* REST APIs
+* MongoDB
+* Git GitHub
+* Streamlit
+* OpenCV
+
+---
+
+## 📌 Projects
+
+### 🔹 Deepfake Detection using MobileNetV2
+
+* Built a deep learning based computer vision model for facial image classification
+* Developed preprocessing and prediction workflows
+* Deployed using Streamlit and Hugging Face
+
+🔗 Project Link
+https://huggingface.co/spaces/ssaidivya/deepfake-detector
+
+---
+
+### 🔹 NLP Sentiment Analysis System
+
+* Developed an NLP based sentiment analysis model using machine learning
+* Performed text preprocessing feature extraction and sentiment classification
+
+---
+
+### 🔹 Full Stack Job Portal
+
+* Built a full stack job portal with authentication and application tracking
+* Integrated frontend backend APIs and MongoDB database
+
+---
+
+## 📚 Certifications
+
+* Advanced Python Programming – Mindspace
+* Generative AI Foundations – upGrad
+* Artificial Intelligence Fundamentals – IBM
+* IBM SkillsBuild AI Strategy and Business Intelligence Internship
+
+---
+
+## 🌱 Currently Learning
+
+* Generative AI
+* LLM APIs
+* AI Automation
+* Flask FastAPI
+* Advanced Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/samatham-sai-divya](http://www.linkedin.com/in/samatham-sai-divya)
+* GitHub: https://github.com/ssdivya08
+* Email: [samathamsaidivya@gmail.com](mailto:samathamsaidivya@gmail.com)
