@@ -1,30 +1,25 @@
 # Hi there 👋 I'm Samatham Sai Divya
 
-🎓 B.Tech CSE Student
+ B.Tech CSE Student
+ 
+ Aspiring AI Engineer
 
-💻 Aspiring AI Engineer
+Interested in AI ML NLP and Full Stack Development
 
-🤖 Interested in AI ML NLP and Full Stack Development
-
-🚀 Building AI Powered Applications and Real World Projects
+Building AI Powered Applications and Real World Projects
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-* Python
-* Java
-* SQL
-* JavaScript
-* HTML CSS
-* TensorFlow
-* Scikit learn
-* NLP
-* REST APIs
-* MongoDB
-* Git GitHub
-* Streamlit
-* OpenCV
+| Category          | Technologies |
+|------------------|-------------|
+| Programming Languages | Python, Java, JavaScript |
+| Web Technologies | HTML, CSS |
+| Database | SQL, MongoDB |
+| Machine Learning | TensorFlow, Scikit-learn, NLP |
+| Backend/API | REST APIs |
+| Tools & Platforms | Git, GitHub, Streamlit, OpenCV |
 
 ---
 
