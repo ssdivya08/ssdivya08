@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Samatham Sai Divya
+# Hi there  I'm Samatham Sai Divya
 
  B.Tech CSE Student
  
@@ -10,7 +10,7 @@ Building AI Powered Applications and Real World Projects
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Category          | Technologies |
 |------------------|-------------|
@@ -23,7 +23,7 @@ Building AI Powered Applications and Real World Projects
 
 ---
 
-## 📌 Projects
+##  Projects
 
 ### 🔹 Deepfake Detection using MobileNetV2
 
@@ -36,21 +36,21 @@ https://huggingface.co/spaces/ssaidivya/deepfake-detector
 
 ---
 
-### 🔹 NLP Sentiment Analysis System
+###  NLP Sentiment Analysis System
 
 * Developed an NLP based sentiment analysis model using machine learning
 * Performed text preprocessing feature extraction and sentiment classification
 
 ---
 
-### 🔹 Full Stack Job Portal
+###  Full Stack Job Portal
 
 * Built a full stack job portal with authentication and application tracking
 * Integrated frontend backend APIs and MongoDB database
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
 * Advanced Python Programming – Mindspace
 * Generative AI Foundations – upGrad
@@ -59,7 +59,7 @@ https://huggingface.co/spaces/ssaidivya/deepfake-detector
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Generative AI
 * LLM APIs
@@ -69,7 +69,7 @@ https://huggingface.co/spaces/ssaidivya/deepfake-detector
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/samatham-sai-divya](http://www.linkedin.com/in/samatham-sai-divya)
 * GitHub: https://github.com/ssdivya08
