@@ -55,7 +55,7 @@ https://huggingface.co/spaces/ssaidivya/deepfake-detector
 * Advanced Python Programming – Mindspace
 * Generative AI Foundations – upGrad
 * Artificial Intelligence Fundamentals – IBM
-* IBM SkillsBuild AI Strategy and Business Intelligence Internship
+* IBM SkillsBuild AI Strategy and Business Intelligence Internship.
 
 ---
 
