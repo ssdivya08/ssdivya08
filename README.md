@@ -31,7 +31,7 @@ Building AI Powered Applications and Real World Projects
 * Developed preprocessing and prediction workflows
 * Deployed using Streamlit and Hugging Face
 
-🔗 Project Link .
+🔗 Project Link 
 https://huggingface.co/spaces/ssaidivya/deepfake-detector
 
 ---
