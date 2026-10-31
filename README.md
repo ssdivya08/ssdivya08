@@ -2,7 +2,7 @@
 
  B.Tech CSE Student
  
- Aspiring AI Engineer
+ Aspiring AI Engineer and Full stack developer
 
 Interested in AI ML NLP and Full Stack Development
 
